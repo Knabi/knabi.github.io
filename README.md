@@ -6,10 +6,8 @@ This is a personal academic website built using HTML and CSS, hosted with **GitH
 Once GitHub Pages is enabled, your website will be available at:
 
 ```
-https://yourusername.github.io/your-repo-name/
+https://knabi.github.io/
 ```
-
-Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.
 
 ## 📁 Structure
 ```
